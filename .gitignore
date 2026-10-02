@@ -1,0 +1,13 @@
+/dist/
+/.test-work/
+/last-error.txt
+*.exe
+*.pdb
+*.zip
+*.user
+*.suo
+.vs/
+inventory*.json
+settings.json
+.env
+*.log
